@@ -1,7 +1,7 @@
 /// Support for doing something awesome.
 ///
 /// More dartdocs go here.
-library mavsdk_dart;
+library mavsdk;
 
 export 'src/mavsdk_dart_base.dart';
 

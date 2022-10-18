@@ -1,4 +1,4 @@
-import 'package:mavsdk_dart/mavsdk_dart.dart';
+import 'package:mavsdk_dart/mavsdk.dart';
 
 void main() {
   var awesome = Awesome();
